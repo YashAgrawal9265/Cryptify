@@ -17,7 +17,7 @@ const Footer = () => (
 
     <div className="flex justify-center items-center flex-col mt-5">
       <p className="text-white text-sm text-center">Come join us and hear for the unexpected miracle</p>
-      <p className="text-white text-sm text-center font-medium mt-2">yashagrwal and sahilgrewal</p>
+      <p className="text-white text-sm text-center font-medium mt-2">yashagrwal4357@gmail.com</p>
     </div>
 
     <div className="sm:w-[90%] w-full h-[0.25px] bg-gray-400 mt-5 " />
